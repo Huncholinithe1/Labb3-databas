@@ -1,0 +1,24 @@
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\labb 3 databas.exe
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\labb 3 databas.deps.json
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\labb 3 databas.runtimeconfig.json
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\labb 3 databas.dll
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\labb 3 databas.pdb
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\DnsClient.dll
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\Snappier.dll
+C:\Users\youse\Desktop\labb 3 databas\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.csproj.AssemblyReference.cache
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.AssemblyInfoInputs.cache
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.AssemblyInfo.cs
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.csproj.CoreCompileInputs.cache
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 d.66EFCBD7.Up2Date
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.dll
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\refint\labb 3 databas.dll
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.pdb
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.genruntimeconfig.cache
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\ref\labb 3 databas.dll
+C:\Users\youse\Desktop\labb 3 databas\obj\Debug\net8.0\labb 3 databas.sourcelink.json
